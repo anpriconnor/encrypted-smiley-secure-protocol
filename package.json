@@ -8,7 +8,7 @@
     "lint": "eslint src && npx prettier --check ."
   },
   "engines": {
-    "node": ">=10.4.0"
+    "node": ">=18"
   },
   "repository": {
     "type": "git",
